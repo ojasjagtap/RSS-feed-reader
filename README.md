@@ -14,6 +14,7 @@ Clone or download this repository to your local machine.
 Open a terminal and navigate to the directory containing the rss_feed_reader.py file.
 Run the script by executing the following command:
 - python rss_feed_reader.py
+
 The script will prompt you to enter the URL of the RSS feed you want to read. Enter the URL and press Enter.
 The script will fetch and display the titles, descriptions, and links of the feed items.
 To exit the script, simply press Ctrl+C or close the terminal.
